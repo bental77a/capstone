@@ -1,0 +1,23 @@
+/* base.html */
+#christian {
+    color: #ff6347; /* Tomato Red instead of red */
+    text-align: left;
+}
+
+/* password section */
+#p_reset_form {
+    flex-direction: column;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+    color: #222; /* Dark text */
+}
+
+#pr_confirm {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+    color: #222;
+}
