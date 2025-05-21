@@ -1,4 +1,4 @@
-# SportsMeet: Connect & Play
+# Connect & Play
 
 ## 🏆 Project Vision
 
